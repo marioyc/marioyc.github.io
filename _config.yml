@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mario Ynocente Castro"
+  name             :
   avatar           : "profile.png"
-  bio              : "Interested in AI, Robotics, Algorithms, Math."
+  bio              : "AI Engineer@SonyAI. Working in Reinforcement Learning, Robotics. Also interested in Algorithms, Programming, Math."
   location         : "Chiba, Japan"
-  employer         : "Sony AI"
+  employer         : "Sony AI, Tokyo"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=WgpOtZoAAAAJ&hl=en"
   email            :
